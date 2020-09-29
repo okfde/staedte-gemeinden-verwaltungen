@@ -1,0 +1,1847 @@
+[{
+  "name": "Aland",
+  "email": "info@vgem-seehausen.de",
+  "website": "https://www.seehausen-altmark.de/",
+  "lat": "52.95833",
+  "long": "11.64167",
+  "item": "Q673211",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Altmärkische Wische",
+  "email": "info@vgem-seehausen.de",
+  "website": "https://www.seehausen-altmark.de/",
+  "lat": "52.95833",
+  "long": "11.64167",
+  "item": "Q442904",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Alsleben (Saale)",
+  "email": "info@saale-wipper.de",
+  "website": "https://www.saale-wipper.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.701",
+  "long": "11.68",
+  "item": "Q488270",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Ahlsdorf",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.54543",
+  "long": "11.46655",
+  "item": "Q400556",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Allstedt",
+  "email": "info@allstedt.de",
+  "website": "https://www.allstedt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.4",
+  "long": "11.383333333",
+  "item": "Q489932",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "An der Poststraße",
+  "email": "info@vgem-finne.de",
+  "website": "http://www.vgem-finne.de/webNC/de/content/content.php?areaID=2",
+  "lat": "51.166666666",
+  "long": "11.55",
+  "item": "Q482595",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Am Großen Bruch",
+  "email": "post@westlicheboerde.de",
+  "website": "https://www.westlicheboerde.de/",
+  "lat": "52.066666666",
+  "long": "11.083333333",
+  "item": "Q451332",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Altenhausen",
+  "email": "info@vg-flechtingen.de",
+  "website": "https://www.verbandsgemeinde-flechtingen.de/index.html",
+  "lat": "52.25",
+  "long": "11.25",
+  "item": "Q437200",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Aken (Elbe)",
+  "email": "info@aken.de",
+  "website": "https://www.aken.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.85",
+  "long": "12.05",
+  "item": "Q417336",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Altmärkische Höhe",
+  "email": "info@vgem-seehausen.de",
+  "website": "https://www.seehausen-altmark.de/",
+  "lat": "52.95833",
+  "long": "11.64167",
+  "item": "Q442875",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Arendsee (Altmark)",
+  "email": "info@stadt-arendsee.de",
+  "website": "http://www.stadt-arendsee.de/index.php",
+  "classification": "Stadtverwaltung",
+  "lat": "52.876666666",
+  "long": "11.486666666",
+  "item": "Q490960",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Aschersleben",
+  "email": "j_kadow@aschersleben.de",
+  "website": "https://www.aschersleben.de/cms/index.php?id=41",
+  "classification": "Stadtverwaltung",
+  "lat": "51.75",
+  "long": "11.466666666",
+  "item": "Q486991",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Arneburg",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.67565",
+  "long": "12.00514",
+  "item": "Q493437",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Bad Dürrenberg",
+  "email": "stadt@badduerrenberg.de",
+  "website": "https://stadt-bad-duerrenberg.de/stadtbd/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.29545",
+  "long": "12.065830555",
+  "item": "Q518392",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Apenburg-Winterfeld",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.733333333",
+  "long": "11.216666666",
+  "item": "Q618186",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Arnstein",
+  "email": "post@arnstein-harz.de",
+  "website": "https://www.arnstein-harz.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.68333",
+  "long": "11.46667",
+  "item": "Q697577",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Ausleben",
+  "email": "post@westlicheboerde.de",
+  "website": "https://www.westlicheboerde.de/",
+  "lat": "52.09",
+  "long": "11.116666666",
+  "item": "Q574459",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Bad Bibra",
+  "email": "info@vgem-finne.de",
+  "website": "http://www.vgem-finne.de/webNC/de/content/content.php?areaID=2",
+  "classification": "Stadtverwaltung",
+  "lat": "51.2",
+  "long": "11.566666666",
+  "item": "Q522601",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Annaburg",
+  "email": "stadt@annaburg.de",
+  "website": "http://stadt-annaburg.de/cms/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.732777777",
+  "long": "13.045555555",
+  "item": "Q490413",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Angern",
+  "email": "poststelle@elbe-heide.de",
+  "website": "https://www.elbe-heide.de/",
+  "lat": "52.35",
+  "long": "11.73333",
+  "item": "Q530122",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Barby",
+  "email": "info@stadt-barby.de",
+  "website": "http://www.stadt-barby.de/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.966666666",
+  "long": "11.866666666",
+  "item": "Q530185",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Barnstädt",
+  "email": "service@vg-weida-land.de",
+  "website": "https://www.weida-land.de/",
+  "lat": "51.35",
+  "long": "11.65",
+  "item": "Q634992",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Beendorf",
+  "email": "info@vg-flechtingen.de",
+  "website": "https://www.verbandsgemeinde-flechtingen.de/index.html",
+  "lat": "52.242222222",
+  "long": "11.087777777",
+  "item": "Q554878",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Beetzendorf",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.7",
+  "long": "11.091666666",
+  "item": "Q551981",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Bad Lauchstädt",
+  "email": "stadtverwaltung@stadt-bad-lauchstaedt.de",
+  "website": "https://www.goethestadt-bad-lauchstaedt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.38652",
+  "long": "11.86956",
+  "item": "Q523975",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Ballenstedt",
+  "email": "rathaus@ballenstedt.de",
+  "website": "https://www.ballenstedt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.72",
+  "long": "11.2375",
+  "item": "Q50886",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Barleben",
+  "email": "office@barleben.de",
+  "website": "https://www.barleben.de/",
+  "lat": "52.2",
+  "long": "11.633333333",
+  "item": "Q550241",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Bad Schmiedeberg",
+  "email": "Stadt@bad-schmiedeberg.de",
+  "website": "https://bad-schmiedeberg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.688055555",
+  "long": "12.7375",
+  "item": "Q522557",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Balgstädt",
+  "email": "hauptamt@verbgem-unstruttal.de",
+  "website": "https://www.verbgem-unstruttal.de/de/startseite.html",
+  "lat": "51.206111111",
+  "long": "11.733888888",
+  "item": "Q634456",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Benndorf",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.566666666",
+  "long": "11.483055555",
+  "item": "Q564404",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Bismark (Altmark)",
+  "email": "kontakt@stadt-bismark.de",
+  "website": "https://www.stadt-bismark.de/de/aktuelles.html",
+  "classification": "Stadtverwaltung",
+  "lat": "52.666666666",
+  "long": "11.55",
+  "item": "Q526337",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Bördeland",
+  "email": "buergerbuero@gem-boerdeland.de",
+  "website": "https://www.gem-boerdeland.de/",
+  "lat": "51.966666666",
+  "long": "11.65",
+  "item": "Q550285",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Blankenheim",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.5075",
+  "long": "11.430833333",
+  "item": "Q594048",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Bernburg (Saale)",
+  "email": "stadt@bernburg.de",
+  "website": "www.bernburg.de",
+  "classification": "Stadtverwaltung",
+  "lat": "51.8",
+  "long": "11.733333333",
+  "item": "Q14938",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Blankenburg (Harz)",
+  "email": "bennet.doerge@blankenburg.de",
+  "website": "https://www.blankenburg.de/rathaus/downloads/pressemitteilungen/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.795277777",
+  "long": "10.962222222",
+  "item": "Q525960",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Bitterfeld-Wolfen",
+  "email": "info@bitterfeld-wolfen.de",
+  "website": "https://www.bitterfeld-wolfen.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.616666666",
+  "long": "12.316666666",
+  "item": "Q7007",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Bördeaue",
+  "email": "post@egelnermulde.de",
+  "website": "https://www.egelnermulde.de/",
+  "lat": "51.9306",
+  "long": "11.4944",
+  "item": "Q690259",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Börde-Hakel",
+  "email": "post@egelnermulde.de",
+  "website": "https://www.egelnermulde.de/",
+  "lat": "51.9667",
+  "long": "11.4",
+  "item": "Q695609",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Berga (Kyffhäuser)",
+  "email": "info@vwg-goldene-aue.de",
+  "website": "http://www.vwg-goldene-aue.de/",
+  "lat": "51.456666666",
+  "long": "11.007777777",
+  "item": "Q648358",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Biederitz",
+  "email": "info@gemeinde-biederitz.de",
+  "website": "https://www.gemeinde-biederitz.de/",
+  "lat": "52.1454",
+  "long": "11.7365",
+  "item": "Q551174",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Bornstedt",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.483055555",
+  "long": "11.483055555",
+  "item": "Q634478",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Brücken-Hackpfüffel",
+  "email": "info@vwg-goldene-aue.de",
+  "website": "http://www.vwg-goldene-aue.de/",
+  "lat": "51.430555555",
+  "long": "11.197222222",
+  "item": "Q706311",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Braunsbedra",
+  "email": "stadt_braunsbedra@t-online.de",
+  "website": "http://www.braunsbedra.de",
+  "classification": "Stadtverwaltung",
+  "lat": "51.283333333",
+  "long": "11.9",
+  "item": "Q519640",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Calbe (Saale)",
+  "email": "stadt@calbe.de",
+  "website": "http://www.calbe.de",
+  "classification": "Stadtverwaltung",
+  "lat": "51.903333333",
+  "long": "11.775833333",
+  "item": "Q505176",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Calvörde",
+  "email": "info@vg-flechtingen.de",
+  "website": "https://www.verbandsgemeinde-flechtingen.de/index.html",
+  "lat": "52.395555555",
+  "long": "11.296666666",
+  "item": "Q526417",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Burg",
+  "email": "Bernhard.Ruth@stadt-burg.de",
+  "website": "https://stadtburg.info/Stadtverwaltung.html",
+  "lat": "49.958888888",
+  "long": "6.352777777",
+  "item": "Q674764",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Borne",
+  "email": "post@egelnermulde.de",
+  "website": "https://www.egelnermulde.de/",
+  "lat": "51.95",
+  "long": "11.556944444",
+  "item": "Q634521",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Colbitz",
+  "email": "poststelle@elbe-heide.de",
+  "website": "https://www.elbe-heide.de/",
+  "lat": "52.316666666",
+  "long": "11.616666666",
+  "item": "Q554920",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Burgstall",
+  "email": "poststelle@elbe-heide.de",
+  "website": "https://www.elbe-heide.de/",
+  "lat": "52.416666666",
+  "long": "11.683333333",
+  "item": "Q634463",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Bülstringen",
+  "email": "info@vg-flechtingen.de",
+  "website": "https://www.verbandsgemeinde-flechtingen.de/index.html",
+  "lat": "52.316666666",
+  "long": "11.35",
+  "item": "Q564355",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Eichstedt (Altmark)",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "lat": "52.679861111",
+  "long": "11.852180555",
+  "item": "Q634985",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Dessau-Roßlau",
+  "email": "pressesprecher@dessau-rosslau.de",
+  "website": "https://verwaltung.dessau-rosslau.de/de/stadt-buerger/presse-und-publikationen.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.833333",
+  "long": "12.233333",
+  "item": "Q3828",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Edersleben",
+  "email": "info@vwg-goldene-aue.de",
+  "website": "http://www.vwg-goldene-aue.de/",
+  "lat": "51.416666666",
+  "long": "11.266666666",
+  "item": "Q550233",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Eckartsberga",
+  "email": "info@vgem-finne.de",
+  "website": "http://www.vgem-finne.de/webNC/de/content/content.php?areaID=2",
+  "classification": "Stadtverwaltung",
+  "lat": "51.116666666",
+  "long": "11.55",
+  "item": "Q530107",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Coswig (Anhalt)",
+  "email": "post(at)coswig-online.de",
+  "website": "https://www.coswigonline.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "12.433333",
+  "wikidata_item": "Q530197",
+  "typ": "Stadt in Deutschland",
+  "long": "51.883333"
+}, {
+  "name": "Droyßig",
+  "email": "info@vgem-dzf.de",
+  "website": "https://www.vgem-dzf.de/",
+  "lat": "51.049722222",
+  "long": "12.033055555",
+  "item": "Q565919",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Egeln",
+  "email": "post@egelnermulde.de",
+  "website": "https://www.egelnermulde.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.95",
+  "long": "11.433333333",
+  "item": "Q518194",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Dähre",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.800555555",
+  "long": "10.908888888",
+  "item": "Q551932",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Ditfurt",
+  "email": "info@vorharz.net",
+  "website": "http://www.vorharz.net/de/mitgliedsgemeinden.html",
+  "lat": "51.83333",
+  "long": "11.2",
+  "item": "Q551924",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Diesdorf",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.751388888",
+  "long": "10.875277777",
+  "item": "Q551975",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Elsteraue",
+  "email": "info@gemeinde-elsteraue.de",
+  "website": "https://www.gemeinde-elsteraue.de/",
+  "lat": "51.075",
+  "long": "12.218055555",
+  "item": "Q554758",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Elbe-Parey",
+  "email": "poststelle@elbe-parey.de",
+  "website": "https://www.elbe-parey.de/",
+  "lat": "52.383333333",
+  "long": "12.016666666",
+  "item": "Q504900",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Eisleben",
+  "email": "poststelle@lutherstadt-eisleben.de",
+  "website": "https://www.eisleben.eu/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.516666666",
+  "long": "11.55",
+  "item": "Q484870",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Falkenstein/Harz",
+  "email": "postfach@stadt-falkenstein-harz.de",
+  "website": "https://www.falkenstein-harz.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.733333333",
+  "long": "11.333333333",
+  "item": "Q50871",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Finne",
+  "email": "info@vgem-finne.de",
+  "website": "http://www.vgem-finne.de/webNC/de/content/content.php?areaID=2",
+  "lat": "51.216666666",
+  "long": "11.433333333",
+  "item": "Q690234",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Eilsleben",
+  "email": "info@obere-aller.de",
+  "website": "http://www.obere-aller.de/",
+  "lat": "52.149722222",
+  "long": "11.216666666",
+  "item": "Q573458",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Flechtingen",
+  "email": "info@vg-flechtingen.de",
+  "website": "https://www.verbandsgemeinde-flechtingen.de/index.html",
+  "lat": "52.331111111",
+  "long": "11.241388888",
+  "item": "Q573523",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Farnstädt",
+  "email": "service@vg-weida-land.de",
+  "website": "https://www.weida-land.de/",
+  "lat": "51.433055555",
+  "long": "11.566666666",
+  "item": "Q339068",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Finneland",
+  "email": "info@vgem-finne.de",
+  "website": "http://www.vgem-finne.de/webNC/de/content/content.php?areaID=2",
+  "lat": "51.2",
+  "long": "11.5",
+  "item": "Q548870",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Erxleben",
+  "email": "info@vg-flechtingen.de",
+  "website": "https://www.verbandsgemeinde-flechtingen.de/index.html",
+  "lat": "52.75",
+  "long": "11.766666666",
+  "item": "Q685303",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Gräfenhainichen",
+  "email": "allgemeinezentrale@graefenhainichen.de",
+  "website": "https://www.graefenhainichen.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.729166666",
+  "long": "12.455555555",
+  "item": "Q373077",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Freyburg (Unstrut)",
+  "email": "hauptamt@verbgem-unstruttal.de",
+  "website": "https://www.verbgem-unstruttal.de/de/startseite.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.212777777",
+  "long": "11.769722222",
+  "item": "Q529853",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Giersleben",
+  "email": "info@saale-wipper.de",
+  "website": "https://www.saale-wipper.de/",
+  "lat": "51.763888888",
+  "long": "11.561944444",
+  "item": "Q564370",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Gardelegen",
+  "email": "info@gardelegen.de",
+  "website": "https://www.gardelegen.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.526388888",
+  "long": "11.3925",
+  "item": "Q492374",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Goseck",
+  "email": "hauptamt@verbgem-unstruttal.de",
+  "website": "https://www.verbgem-unstruttal.de/de/startseite.html",
+  "lat": "51.2",
+  "long": "11.86667",
+  "item": "Q649074",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Gleina",
+  "email": "hauptamt@verbgem-unstruttal.de",
+  "website": "https://www.verbgem-unstruttal.de/de/startseite.html",
+  "lat": "51.2403",
+  "long": "14.5622",
+  "item": "Q160968",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Genthin",
+  "email": "stadtverwaltung@stadt-genthin.de",
+  "website": "https://www.stadt-genthin.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.4",
+  "long": "12.166666666",
+  "item": "Q284317",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Gerbstedt",
+  "email": "info@stadt-gerbstedt.de",
+  "website": "https://www.stadt-gerbstedt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.633055555",
+  "long": "11.616666666",
+  "item": "Q50891",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Goldbeck",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "lat": "52.716666666",
+  "long": "11.861666666",
+  "item": "Q564286",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Gommern",
+  "email": "kontakt@gommern.de",
+  "website": "https://www.gommern.de/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.073888888",
+  "long": "11.823055555",
+  "item": "Q50880",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Harbke",
+  "email": "info@obere-aller.de",
+  "website": "http://www.obere-aller.de/",
+  "lat": "52.183333333",
+  "long": "11.05",
+  "item": "Q630423",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Groß Quenstedt",
+  "email": "info@vorharz.net",
+  "website": "http://www.vorharz.net/de/mitgliedsgemeinden.html",
+  "lat": "51.928055555",
+  "long": "11.108055555",
+  "item": "Q564301",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Güsten",
+  "email": "info@saale-wipper.de",
+  "website": "https://www.saale-wipper.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.797222222",
+  "long": "11.61",
+  "item": "Q246502",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Harsleben",
+  "email": "info@vorharz.net",
+  "website": "http://www.vorharz.net/de/mitgliedsgemeinden.html",
+  "lat": "51.866666666",
+  "long": "11.093055555",
+  "item": "Q564281",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Halberstadt",
+  "email": "halberstadt@halberstadt.de",
+  "website": "https://www.halberstadt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.895833333",
+  "long": "11.046666666",
+  "item": "Q7072",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Halle (Saale)",
+  "email": "Drago.Bock@halle.de",
+  "website": "https://www.halle.de/de/startseite/index.aspx",
+  "classification": "Stadtverwaltung",
+  "lat": "51.482777777",
+  "long": "11.969722222",
+  "item": "Q2814",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Harzgerode",
+  "email": "info@harzgerode.de",
+  "website": "https://www.harzgerode.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.641666666",
+  "long": "11.142777777",
+  "item": "Q526353",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Gutenborn",
+  "email": "info@vgem-dzf.de",
+  "website": "https://www.vgem-dzf.de/",
+  "lat": "51.0",
+  "long": "12.1167",
+  "item": "Q47743",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Gröningen",
+  "email": "post@westlicheboerde.de",
+  "website": "https://www.westlicheboerde.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "48.904722222",
+  "long": "9.080833333",
+  "item": "Q13896",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Haldensleben",
+  "email": "presse@haldensleben.de",
+  "website": "https://www.haldensleben.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.283333333",
+  "long": "11.416666666",
+  "item": "Q186557",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Hecklingen",
+  "email": "info@stadt-hecklingen.de",
+  "website": "https://www.stadt-hecklingen.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.85",
+  "long": "11.516666666",
+  "item": "Q374159",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Helbra",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.549722222",
+  "long": "11.5",
+  "item": "Q555270",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Hergisdorf",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.533055555",
+  "long": "11.483055555",
+  "item": "Q564396",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Havelberg",
+  "email": "stadt@havelberg.de",
+  "website": "https://www.havelberg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.825",
+  "long": "12.074444444",
+  "item": "Q504040",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Hettstedt",
+  "email": "info@hettstedt.de",
+  "website": "https://www.hettstedt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.633333333",
+  "long": "11.5",
+  "item": "Q50883",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Hedersleben",
+  "email": "info@vorharz.net",
+  "website": "http://www.vorharz.net/de/mitgliedsgemeinden.html",
+  "lat": "51.858611111",
+  "long": "11.252222222",
+  "item": "Q573454",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Hohenmölsen",
+  "email": "info@stadt-hohenmoelsen.de",
+  "website": "https://www.stadt-hohenmoelsen.de/de/aktuelles.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.156388888",
+  "long": "12.098055555",
+  "item": "Q522390",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Hohe Börde",
+  "email": "trittel@hohe-boerde.de",
+  "website": "https://www.hoheboerde.de/front_content.php?idcat=383&lang=12",
+  "lat": "52.166666666",
+  "long": "11.483333333",
+  "item": "Q689996",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Hassel",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "lat": "52.634722222",
+  "long": "11.933055555",
+  "item": "Q573504",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Hohenberg-Krusemark",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "lat": "52.726666666",
+  "long": "11.953055555",
+  "item": "Q573559",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Ilsenburg (Harz)",
+  "email": "info@ilsenburg.de",
+  "website": "https://www.ilsenburg-tourismus.de/startseite.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.866666666",
+  "long": "10.683333333",
+  "item": "Q529928",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Hötensleben",
+  "email": "info@obere-aller.de",
+  "website": "http://www.obere-aller.de/",
+  "lat": "52.116666666",
+  "long": "11.016666666",
+  "item": "Q529831",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Iden",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "lat": "52.783055555",
+  "long": "11.916666666",
+  "item": "Q634760",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Jessen (Elster)",
+  "email": "info@jessen.de",
+  "website": "http://www.jessen.de/start.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.791666666",
+  "long": "12.955555555",
+  "item": "Q554771",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Ilberstedt",
+  "email": "info@saale-wipper.de",
+  "website": "https://www.saale-wipper.de/",
+  "lat": "51.799722222",
+  "long": "11.666666666",
+  "item": "Q302933",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Huy",
+  "email": "info@gemeinde-huy.de",
+  "website": "https://www.gemeindehuy.de/front_content.php?idcat=230&lang=8",
+  "lat": "51.966666666",
+  "long": "10.916666666",
+  "item": "Q21170",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Kabelsketal",
+  "email": "buergermeister@kabelsketal.de",
+  "website": "https://www.kabelsketal.de/de/de.html",
+  "lat": "51.446944444",
+  "long": "12.1025",
+  "item": "Q630400",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Jerichow",
+  "email": "post@stadt-jerichow.de",
+  "website": "https://www.jerichow.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.499498",
+  "long": "12.02803",
+  "item": "Q530090",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Ingersleben",
+  "email": "info@vg-flechtingen.de",
+  "website": "https://www.verbandsgemeinde-flechtingen.de/index.html",
+  "lat": "52.216666666",
+  "long": "11.116666666",
+  "item": "Q550200",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Jübar",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.689722222",
+  "long": "10.913055555",
+  "item": "Q529896",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Kemberg",
+  "email": "info@stadt-kemberg.de",
+  "website": "https://www.stadt-kemberg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.77359",
+  "long": "12.63589",
+  "item": "Q534792",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Klostermansfeld",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.583055555",
+  "long": "11.5",
+  "item": "Q634966",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Kamern",
+  "email": "amt@elbe-havel-land.de",
+  "website": "https://www.elbe-havel-land.de/",
+  "lat": "52.75",
+  "long": "12.116666666",
+  "item": "Q564292",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Könnern",
+  "email": "info@stadt-koennern.de",
+  "website": "https://www.stadt-koennern.de/cms/index.php/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.669722222",
+  "long": "11.770833333",
+  "item": "Q518419",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Klietz",
+  "email": "amt@elbe-havel-land.de",
+  "website": "https://www.elbe-havel-land.de/",
+  "lat": "52.6675",
+  "long": "12.066111111",
+  "item": "Q634706",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Kalbe (Milde)",
+  "email": "rathaus@stadt-kalbe-milde.de",
+  "website": "https://stadt-kalbe-milde.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.65",
+  "long": "11.4",
+  "item": "Q539118",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Kelbra (Kyffhäuser)",
+  "email": "info@vwg-goldene-aue.de",
+  "website": "http://www.vwg-goldene-aue.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.433333333",
+  "long": "11.033333333",
+  "item": "Q539059",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Klötze",
+  "email": "info@stadt-kloetze.de",
+  "website": "https://www.stadt-kloetze.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.627222222",
+  "long": "11.164166666",
+  "item": "Q50877",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Kaiserpfalz",
+  "email": "info@vgem-finne.de",
+  "website": "http://www.vgem-finne.de/webNC/de/content/content.php?areaID=2",
+  "lat": "51.25",
+  "long": "11.483333333",
+  "item": "Q706307",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Karsdorf",
+  "email": "hauptamt@verbgem-unstruttal.de",
+  "website": "https://www.verbgem-unstruttal.de/de/startseite.html",
+  "lat": "51.283055555",
+  "long": "11.65",
+  "item": "Q555245",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Kroppenstedt",
+  "email": "post@westlicheboerde.de",
+  "website": "https://www.westlicheboerde.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.9413",
+  "long": "11.30845",
+  "item": "Q573449",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Lützen",
+  "email": "rathaus@stadt-luetzen.de",
+  "website": "https://www.stadt-luetzen.de/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.258333333",
+  "long": "12.141666666",
+  "item": "Q517174",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Kretzschau",
+  "email": "info@vgem-dzf.de",
+  "website": "https://www.vgem-dzf.de/",
+  "lat": "51.049722222",
+  "long": "12.066666666",
+  "item": "Q635076",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Landsberg",
+  "email": "info@stadt-landsberg.de",
+  "website": "https://www.stadt-landsberg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.524625",
+  "long": "12.159626",
+  "item": "Q39793",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Leuna",
+  "email": "becker@leuna.de",
+  "website": "https://www.leuna.de/de/startseite.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.316666666",
+  "long": "12.016666666",
+  "item": "Q505191",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Kuhfelde",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.783055555",
+  "long": "11.116666666",
+  "item": "Q565907",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Köthen (Anhalt)",
+  "email": "stadtverwaltung@koethen-stadt.de",
+  "website": "https://www.koethen-anhalt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.7511251",
+  "long": "11.9778964",
+  "item": "Q1796771",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Lanitz-Hassel-Tal",
+  "email": "info@vgem-finne.de",
+  "website": "http://www.vgem-finne.de/webNC/de/content/content.php?areaID=2",
+  "lat": "51.15",
+  "long": "11.666666666",
+  "item": "Q701298",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Laucha an der Unstrut",
+  "email": "hauptamt@verbgem-unstruttal.de",
+  "website": "https://www.verbgem-unstruttal.de/de/startseite.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.223611111",
+  "long": "11.679722222",
+  "item": "Q124803",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Loitsche-Heinrichsberg",
+  "email": "poststelle@elbe-heide.de",
+  "website": "https://www.elbe-heide.de/",
+  "lat": "52.2833",
+  "long": "11.7167",
+  "item": "Q690599",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Magdeburg",
+  "email": "Kerstin.Kinszorra@ob.magdeburg.de",
+  "website": "https://www.magdeburg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.127777777",
+  "long": "11.629166666",
+  "item": "Q1733",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Muldestausee",
+  "email": "info@gemeinde-muldestausee.de",
+  "website": "https://www.gemeinde-muldestausee.de/",
+  "lat": "51.65",
+  "long": "12.45",
+  "item": "Q707950",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Meineweh",
+  "email": "info@vgem-wethautal.de",
+  "website": "https://www.vgem-wethautal.de/",
+  "lat": "51.083055555",
+  "long": "11.983055555",
+  "item": "Q631570",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Möser",
+  "email": "info@gemeinde-moeser.de",
+  "website": "https://www.gemeinde-moeser.de/",
+  "lat": "52.216666666",
+  "long": "11.8",
+  "item": "Q565929",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Mansfeld",
+  "email": "info@mansfeld.eu",
+  "website": "https://www.mansfeld.eu/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.594166666",
+  "long": "11.454722222",
+  "item": "Q502926",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Merseburg",
+  "email": "pressestelle@merseburg.de",
+  "website": "https://www.merseburg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.354444444",
+  "long": "11.992777777",
+  "item": "Q14945",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Molauer Land",
+  "email": "info@vgem-wethautal.de",
+  "website": "https://www.vgem-wethautal.de/",
+  "lat": "51.06667",
+  "long": "11.86667",
+  "item": "Q690224",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Mertendorf",
+  "email": "info@vgem-wethautal.de",
+  "website": "https://www.vgem-wethautal.de/",
+  "lat": "51.0",
+  "long": "11.783333333",
+  "item": "Q650871",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Möckern",
+  "email": "info@stadt-moeckern.de",
+  "website": "http://www.moeckern-flaeming.de/",
+  "lat": "50.853333333",
+  "long": "11.774166666",
+  "item": "Q658953",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Mücheln (Geiseltal)",
+  "email": "info@muecheln.de",
+  "website": "https://www.muecheln.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.3",
+  "long": "11.8",
+  "item": "Q530212",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Nebra (Unstrut)",
+  "email": "hauptamt@verbgem-unstruttal.de",
+  "website": "https://www.verbgem-unstruttal.de/de/startseite.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.283333333",
+  "long": "11.566666666",
+  "item": "Q504051",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Oberharz am Brocken",
+  "email": "info@oberharzstadt.de",
+  "website": "http://www.oberharzstadt.de/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.71667",
+  "long": "10.83028",
+  "item": "Q703001",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Nemsdorf-Göhrendorf",
+  "email": "service@vg-weida-land.de",
+  "website": "https://www.weida-land.de/",
+  "lat": "51.35",
+  "long": "11.65",
+  "item": "Q564359",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Oranienbaum-Wörlitz",
+  "email": "info@oranienbaum-woerlitz.de",
+  "website": "https://www.oranienbaum-woerlitz.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.803611111",
+  "long": "12.406388888",
+  "item": "Q694755",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Oebisfelde-Weferlingen",
+  "email": "info@stadt-oebisfelde-weferlingen.de",
+  "website": "http://www.stadt-oebisfelde-weferlingen.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.433333333",
+  "long": "10.983333333",
+  "item": "Q668316",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Niedere Börde",
+  "email": "webkontakt@niedere-boerde.de",
+  "website": "http://www.niedere-boerde.de/",
+  "lat": "52.233055555",
+  "long": "11.516666666",
+  "item": "Q554720",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Nordharz",
+  "email": "poststelle@gemeinde-nordharz.de",
+  "website": "https://gemeinde-nordharz.de/",
+  "lat": "51.9",
+  "long": "10.7667",
+  "item": "Q701320",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Naumburg (Saale)",
+  "email": "info@naumburg-stadt.de",
+  "website": "https://www.naumburg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.152095",
+  "long": "11.809819",
+  "item": "Q15986",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Nienburg (Saale)",
+  "email": "info@stadt-nienburg-saale.de",
+  "website": "https://www.stadt-nienburg-saale.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.816666666",
+  "long": "11.75",
+  "item": "Q551940",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Obhausen",
+  "email": "service@vg-weida-land.de",
+  "website": "https://www.weida-land.de/",
+  "lat": "51.399722222",
+  "long": "11.666666666",
+  "item": "Q542937",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Plötzkau",
+  "email": "info@saale-wipper.de",
+  "website": "https://www.saale-wipper.de/",
+  "lat": "51.75",
+  "long": "11.683055555",
+  "item": "Q550297",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Osterburg (Altmark), Hansestadt",
+  "email": "stadt@osterburg.de",
+  "website": "https://www.osterburg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.783333",
+  "wikidata_item": "Q504010",
+  "long": "11.766667",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Osterfeld",
+  "email": "info@vgem-wethautal.de",
+  "website": "https://www.vgem-wethautal.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.076666666",
+  "long": "11.933055555",
+  "item": "Q550872",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Querfurt",
+  "email": "info@querfurt.de",
+  "website": "https://www.querfurt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.383333333",
+  "long": "11.6",
+  "item": "Q518204",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Petersberg",
+  "email": "info@gemeinde-petersberg.de",
+  "website": "http://www.gemeinde-petersberg.de/",
+  "lat": "49.238888888",
+  "long": "7.565833333",
+  "item": "Q676597",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Raguhn-Jeßnitz",
+  "email": "info@raguhn-jessnitz.de",
+  "website": "https://www.raguhn-jessnitz.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.7167",
+  "long": "12.2667",
+  "item": "Q701011",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Oschersleben (Bode)",
+  "email": "info@oscherslebenbode.de",
+  "website": "https://www.oscherslebenbode.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.016666666",
+  "long": "11.25",
+  "item": "Q525392",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Osternienburger Land",
+  "email": "info@osternienburgerland.de",
+  "website": "https://www.osternienburgerland.de/",
+  "lat": "51.8",
+  "long": "12.0167",
+  "item": "Q706291",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Osterwieck",
+  "email": "info@stadt-osterwieck.de",
+  "website": "https://www.stadt-osterwieck.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.966666666",
+  "long": "10.716666666",
+  "item": "Q547619",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Quedlinburg",
+  "email": "stadtverwaltung@quedlinburg.de",
+  "website": "https://www.quedlinburg.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.791666666",
+  "long": "11.147222222",
+  "item": "Q40623",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Sandersdorf-Brehna",
+  "email": "info@sandersdorf-brehna.de",
+  "website": "https://www.sandersdorf-brehna.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.616666666",
+  "long": "12.233333333",
+  "item": "Q2885796",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Salzatal",
+  "email": "info@gemeinde-salzatal.de",
+  "website": "http://www.gemeinde-salzatal.de/de/",
+  "lat": "51.5339",
+  "long": "11.7728",
+  "item": "Q690531",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Rochau",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "lat": "52.71",
+  "long": "11.75",
+  "item": "Q564296",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Rogätz",
+  "email": "poststelle@elbe-heide.de",
+  "website": "https://www.elbe-heide.de/",
+  "lat": "52.316666666",
+  "long": "11.766666666",
+  "item": "Q555036",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Rohrberg",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.706666666",
+  "long": "11.036666666",
+  "item": "Q649271",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Sangerhausen",
+  "email": "marina.becker@stadt.sangerhausen.de",
+  "website": "http://www.sangerhausen.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.466666666",
+  "long": "11.3",
+  "item": "Q502434",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Schnaudertal",
+  "email": "info@vgem-dzf.de",
+  "website": "https://www.vgem-dzf.de/",
+  "lat": "50.9694",
+  "long": "12.2028",
+  "item": "Q673061",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Salzwedel",
+  "email": "amanda.hasenfusz@altmarkkreis-salzwedel.de",
+  "website": "https://www.salzwedel.de/de/startseite.html",
+  "classification": "Stadtverwaltung",
+  "lat": "52.85",
+  "long": "11.15",
+  "item": "Q486985",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Schkopau",
+  "email": "buergermeister@gemeinde-schkopau.de",
+  "website": "https://www.gemeinde-schkopau.de/de/",
+  "lat": "51.383333333",
+  "long": "11.966666666",
+  "item": "Q526388",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Sandau (Elbe)",
+  "email": "amt@elbe-havel-land.de",
+  "website": "https://www.elbe-havel-land.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.783333333",
+  "long": "12.05",
+  "item": "Q529820",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Seegebiet Mansfelder Land",
+  "email": "info@seegebiet-mansfelder-land.de",
+  "website": "https://www.seegebiet-mansfelder-land.de/",
+  "lat": "51.4736",
+  "long": "11.6897",
+  "item": "Q537196",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Schollene",
+  "email": "amt@elbe-havel-land.de",
+  "website": "https://www.elbe-havel-land.de/",
+  "lat": "52.683055555",
+  "long": "12.216666666",
+  "item": "Q564389",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Schönebeck (Elbe)",
+  "email": "presseamt@schoenebeck-elbe.de",
+  "website": "http://www.schoenebeck.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.016666666",
+  "long": "11.75",
+  "item": "Q16020",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Schwanebeck",
+  "email": "info@vorharz.net",
+  "website": "http://www.vorharz.net/de/mitgliedsgemeinden.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.9675",
+  "long": "11.120833333",
+  "item": "Q50862",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Selke-Aue",
+  "email": "info@vorharz.net",
+  "website": "http://www.vorharz.net/de/mitgliedsgemeinden.html",
+  "lat": "51.856944444",
+  "long": "11.288888888",
+  "item": "Q690571",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Seeland",
+  "email": "info@stadt-seeland.de",
+  "website": "http://www.stadt-seeland.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.8",
+  "long": "11.333333333",
+  "item": "Q50856",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Schönburg",
+  "email": "info@vgem-wethautal.de",
+  "website": "https://www.vgem-wethautal.de/",
+  "lat": "51.166666666",
+  "long": "11.866666666",
+  "item": "Q564347",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Seehausen (Altmark)",
+  "email": "info@vgem-seehausen.de",
+  "website": "https://www.seehausen-altmark.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.866666666",
+  "long": "11.75",
+  "item": "Q513395",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Schraplau",
+  "email": "service@vg-weida-land.de",
+  "website": "https://www.weida-land.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.436388888",
+  "long": "11.665",
+  "item": "Q550853",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Schönhausen (Elbe)",
+  "email": "amt@elbe-havel-land.de",
+  "website": "https://www.elbe-havel-land.de/",
+  "lat": "52.578611111",
+  "long": "12.039722222",
+  "item": "Q59974",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Stendal, Hansestadt",
+  "email": "pressestelle@stendal.de",
+  "website": "https://www.stendal.de/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.6",
+  "wikidata_item": "Q7082",
+  "long": "11.85",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Tangerhütte",
+  "email": "info@tangerhuette.de",
+  "website": "https://www.tangerhuette.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.433333333",
+  "long": "11.8",
+  "item": "Q50859",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Tangermünde",
+  "email": "stadt@tangermuende.de",
+  "website": "https://www.tangermuende.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.540833333",
+  "long": "11.968888888",
+  "item": "Q498565",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Südharz",
+  "email": "info@rossla.de",
+  "website": "http://www.gemeinde-suedharz.de/",
+  "lat": "51.483333333",
+  "long": "11.066666666",
+  "item": "Q5014",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Steigra",
+  "email": "service@vg-weida-land.de",
+  "website": "https://www.weida-land.de/",
+  "lat": "51.299722222",
+  "long": "11.666666666",
+  "item": "Q549963",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Staßfurt",
+  "email": "stadt@stassfurt.de",
+  "website": "https://www.stassfurt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.866666666",
+  "long": "11.566666666",
+  "item": "Q525409",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Sommersdorf",
+  "email": "info@obere-aller.de",
+  "website": "http://www.obere-aller.de/",
+  "lat": "52.166666666",
+  "long": "11.083055555",
+  "item": "Q564307",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Stößen",
+  "email": "info@vgem-wethautal.de",
+  "website": "https://www.vgem-wethautal.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.109722222",
+  "long": "11.933055555",
+  "item": "Q550848",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Sülzetal",
+  "email": "buergermeister@gemeinde-suelzetal.de",
+  "website": "https://www.xn--gemeinde-slzetal-szb.de/",
+  "lat": "52.0",
+  "long": "11.529722222",
+  "item": "Q383743",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Südliches Anhalt",
+  "email": "info@suedliches-anhalt.de",
+  "website": "http://www.suedliches-anhalt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.6667",
+  "long": "12.0667",
+  "item": "Q703023",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Völpke",
+  "email": "info@obere-aller.de",
+  "website": "http://www.obere-aller.de/",
+  "lat": "52.13865",
+  "long": "11.09877",
+  "item": "Q564319",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Teuchern",
+  "email": "info@stadt-teuchern.de",
+  "website": "http://www.teucherner-land.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.116666666",
+  "long": "12.016666666",
+  "item": "Q534715",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Teutschenthal",
+  "email": "kontakt@gemeinde-teutschenthal.de",
+  "website": "https://www.gemeinde-teutschenthal.de/",
+  "lat": "51.45",
+  "long": "11.8",
+  "item": "Q538873",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Wefensleben",
+  "email": "info@obere-aller.de",
+  "website": "http://www.obere-aller.de/",
+  "lat": "52.18319",
+  "long": "11.16074",
+  "item": "Q565905",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Wallhausen",
+  "email": "info@vwg-goldene-aue.de",
+  "website": "http://www.vwg-goldene-aue.de/",
+  "lat": "49.888055555",
+  "long": "7.765555555",
+  "item": "Q165381",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Wanzleben-Börde",
+  "email": "info@wanzleben-boerde.de",
+  "website": "https://www.wanzleben-boerde.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.06667",
+  "long": "11.43333",
+  "item": "Q700769",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wegeleben",
+  "email": "info@vorharz.net",
+  "website": "http://www.vorharz.net/de/mitgliedsgemeinden.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.866666666",
+  "long": "11.166666666",
+  "item": "Q50854",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wallstawe",
+  "email": "info@vg-beetzendorf.de",
+  "website": "http://www.beetzendorf-diesdorf.de/",
+  "lat": "52.796666666",
+  "long": "11.019722222",
+  "item": "Q565908",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Thale",
+  "email": "stadt@thale.de",
+  "website": "https://www.kreis-hz.de/de/gemeindestrukturen/einheitsgemeinde-stadt-thale-20000223.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.751111111",
+  "long": "11.042777777",
+  "item": "Q506460",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Ummendorf",
+  "email": "info@obere-aller.de",
+  "website": "http://www.obere-aller.de/",
+  "lat": "48.033333333",
+  "long": "10.916666666",
+  "item": "Q507921",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Werben (Elbe), Hansestadt",
+  "email": "kontakt@arneburg-goldbeck.de",
+  "website": "https://www.arneburg-goldbeck.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "11.966667",
+  "wikidata_item": "Q504889",
+  "long": "52.866667",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wittenberg",
+  "email": "karina.austermann@wittenberg.de",
+  "website": "https://www.wittenberg.de/index.php?lang=de",
+  "classification": "Stadtverwaltung",
+  "lat": "51.8671",
+  "long": "12.6484",
+  "item": "Q6837",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wetterzeube",
+  "email": "info@vgem-dzf.de",
+  "website": "https://www.vgem-dzf.de/",
+  "lat": "51.0",
+  "long": "12.016666666",
+  "item": "Q564363",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Wethau",
+  "email": "info@vgem-wethautal.de",
+  "website": "https://www.vgem-wethautal.de/",
+  "lat": "51.133055555",
+  "long": "11.866666666",
+  "item": "Q555279",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Wimmelburg",
+  "email": "info@verwaltungsamt-helbra.de",
+  "website": "http://www.verwaltungsamt-helbra.de/",
+  "lat": "51.516666666",
+  "long": "11.516666666",
+  "item": "Q564400",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Westheide",
+  "email": "poststelle@elbe-heide.de",
+  "website": "https://www.elbe-heide.de/",
+  "lat": "52.283333333",
+  "long": "11.466666666",
+  "item": "Q689927",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Wettin-Löbejün",
+  "email": "buergermeisteramt@mail-wl.de",
+  "website": "https://www.stadt-wettin-loebejuen.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.633333333",
+  "long": "11.9",
+  "item": "Q703029",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wernigerode",
+  "email": "pressestelle@wernigerode.de",
+  "website": "https://www.wernigerode.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.835",
+  "long": "10.785277777",
+  "item": "Q15982",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wolmirsleben",
+  "email": "post@egelnermulde.de",
+  "website": "https://www.egelnermulde.de/",
+  "lat": "51.95",
+  "long": "11.483333333",
+  "item": "Q554743",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Weißenfels",
+  "email": "pressestelle@weissenfels.de",
+  "website": "https://www.weissenfels.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.2",
+  "long": "11.966666666",
+  "item": "Q14815",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Zerbst/Anhalt",
+  "email": "info@stadt-zerbst.de",
+  "website": "https://www.stadt-zerbst.de/de/de.html",
+  "classification": "Stadtverwaltung",
+  "lat": "51.968055555",
+  "long": "12.084444444",
+  "item": "Q155981",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wust-Fischbeck",
+  "email": "amt@elbe-havel-land.de",
+  "website": "https://www.elbe-havel-land.de/",
+  "lat": "52.5486",
+  "long": "12.0667",
+  "item": "Q690559",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Zahna-Elster",
+  "email": "info@stadt-zahna-elster.de",
+  "website": "https://www.stadt-zahna-elster.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.916666666",
+  "long": "12.783333333",
+  "item": "Q143401",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Zeitz",
+  "email": "webmaster@zeitz.de",
+  "website": "https://www.zeitz.de/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.047777777",
+  "long": "12.138333333",
+  "item": "Q16087",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Wolmirstedt",
+  "email": "info@stadtwolmirstedt.de",
+  "website": "https://www.stadtwolmirstedt.de/",
+  "classification": "Stadtverwaltung",
+  "lat": "52.25",
+  "long": "11.616667",
+  "item": "Q653962",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Zielitz",
+  "email": "poststelle@elbe-heide.de",
+  "website": "https://www.elbe-heide.de/",
+  "lat": "52.283055555",
+  "long": "11.683055555",
+  "item": "Q198991",
+  "typ": "Gemeinde in Deutschland"
+}, {
+  "name": "Zörbig",
+  "email": "info@stadt-zoerbig.de",
+  "website": "https://www.stadt-zoerbig.de/de/",
+  "classification": "Stadtverwaltung",
+  "lat": "51.616666666",
+  "long": "12.116666666",
+  "item": "Q247868",
+  "typ": "Stadt in Deutschland"
+}, {
+  "name": "Zehrental",
+  "email": "info@vgem-seehausen.de",
+  "website": "https://www.seehausen-altmark.de/",
+  "lat": "52.95",
+  "long": "11.5833",
+  "item": "Q184714",
+  "typ": "Gemeinde in Deutschland"
+}]
