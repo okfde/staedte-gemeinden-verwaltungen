@@ -2,7 +2,7 @@
 
 Daten zu Stadt- und Gemeindeverwaltungen im JSON-Format:
 
-```json
+```js
 [
   {
   "name": "München",
